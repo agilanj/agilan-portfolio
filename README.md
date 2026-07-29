@@ -6,7 +6,7 @@
 
 ## 🌐 Live Portfolio
 
-**portfolio link:** https://agilan-portfolio-nine.vercel.app
+**Portfolio Link:** https://agilan-portfolio-nine.vercel.app
 
 ---
 
