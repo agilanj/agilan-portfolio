@@ -4,9 +4,9 @@
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Portfolio
 
-**Website:** https://agilan-portfolio-nine.vercel.app
+**portfolio link:** https://agilan-portfolio-nine.vercel.app
 
 ---
 
