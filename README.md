@@ -197,10 +197,6 @@ https://agilan-portfolio-nine.vercel.app/
 
 https://linkedin.com/in/agilanj
 
-**GitHub**:
-
-https://github.com/agilanj
-
 **Email**:
 
 agilan4413@gmail.com
